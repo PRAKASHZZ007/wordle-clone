@@ -1,4 +1,4 @@
-# wordle-clone
+# Wordle Clone
 
 A simple Wordle-like game built with React. The app allows users to guess a 5-letter word in 6 attempts with visual feedback.
 
@@ -16,3 +16,4 @@ A simple Wordle-like game built with React. The app allows users to guess a 5-le
 - CSS (Simple custom styles)
 - Vite for development
 
+---
